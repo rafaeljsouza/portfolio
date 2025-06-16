@@ -9,7 +9,7 @@ export const projects = [
       pt: "O código deste portfólio, feito com Next.js e TypeScript, é um exemplo de como criar uma página pessoal responsiva e acessível. Inclui seções sobre mim, projetos e contato, com suporte a múltiplos idiomas.",
       en: "The code for this portfolio, built with Next.js and TypeScript, serves as an example of how to create a responsive and accessible personal page. It includes sections about me, projects, and contact, with support for multiple languages."
     },
-    image: "/images/portfolio.PNG", 
+    image: "/images/portfolio.png", 
     siteLink: "https://portfolio-rafaelsouza.netlify.app/",
     repoLink: "https://github.com/rafaeljsouza/portfolio"
   },
