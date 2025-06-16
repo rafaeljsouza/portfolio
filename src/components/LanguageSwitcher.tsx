@@ -5,7 +5,7 @@ import Cookies from 'js-cookie'
 
 export default function LanguageSwitcher() {
   const router = useRouter()
-  const pathname = usePathname()
+  //const pathname = usePathname()
 
   const switchTo = (locale: string) => {
     Cookies.set('NEXT_LOCALE', locale)
