@@ -1,5 +1,7 @@
 import { About } from '@/components/About'
 
+// Standalone page rendering the About component.
+
 
 export default function AboutPage() {
   return (

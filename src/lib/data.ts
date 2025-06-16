@@ -1,3 +1,4 @@
+// Data used to render the "Projects" page.
 export const projects = [
   {
     title: {

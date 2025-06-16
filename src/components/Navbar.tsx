@@ -1,5 +1,7 @@
 'use client'
 
+// Responsive navigation bar with language support.
+
 import Link from 'next/link'
 import { useState } from 'react'
 import { usePathname } from 'next/navigation'

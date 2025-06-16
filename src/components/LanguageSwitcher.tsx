@@ -1,5 +1,7 @@
 'use client'
 
+// Switches the interface language by updating the locale cookie.
+
 import Cookies from 'js-cookie'
 import { useRouter } from 'next/navigation'
 import { useLocale } from 'next-intl'
