@@ -1,5 +1,7 @@
 'use server'
 
+// Stores the selected locale in a cookie so it persists between requests.
+
 import { cookies } from 'next/headers'
 import { Locale } from '@/services/locale'
 

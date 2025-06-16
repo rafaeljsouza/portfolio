@@ -51,6 +51,14 @@ O projeto roda em `http://localhost:3000`
 - 💬 Internacionalização com cookie + fallback
 - 🔒 Deploy seguro e limpo via Netlify
 
+## 🗂 Estrutura
+
+```
+src/      # Componentes e páginas Next.js
+messages/ # Textos traduzidos
+public/   # Imagens e arquivos estáticos
+```
+
 ---
 
 ## 📸 Prévia
@@ -118,6 +126,14 @@ App runs on `http://localhost:3000`
 - 📱 Fully responsive layout (mobile first)
 - 💬 Cookie-based i18n with fallback
 - 🔒 Clean and secure deployment via Netlify
+
+## 🗂 Project structure
+
+```
+src/      # Next.js components and pages
+messages/ # Translated text files
+public/   # Static images and assets
+```
 
 ---
 

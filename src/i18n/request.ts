@@ -1,3 +1,4 @@
+// Provides messages for the current locale using next-intl.
 import pt from '../../messages/pt.json'
 import en from '../../messages/en.json'
 import { getRequestConfig } from 'next-intl/server'
@@ -9,3 +10,4 @@ export default getRequestConfig(async ({ requestLocale }) => {
   const messages = locale === 'pt' ? pt : en
   return { locale, messages }
 })
+

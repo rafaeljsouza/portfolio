@@ -1,5 +1,7 @@
 'use client'
 
+// Simple contact form that posts to Formspree and uses ReCAPTCHA.
+
 import { useRef, useState } from 'react'
 import ReCAPTCHA from 'react-google-recaptcha'
 import { useTranslations } from 'next-intl'
