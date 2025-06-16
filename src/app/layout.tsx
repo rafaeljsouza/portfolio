@@ -5,6 +5,8 @@ import { Navbar } from '@/components/Navbar';
 import { getUserLocale } from '@/services/locale';
 import '@/app/globals.css';
 
+// Base layout that loads translations and renders the navigation bar.
+
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
   const { locale, messages } = await requestConfig({ requestLocale: getUserLocale() });
 
@@ -19,4 +21,3 @@ export default async function RootLayout({ children }: { children: React.ReactNo
     </html>
   );
 }
-//className="bg-zinc-950 text-white px-6 py-12 max-w-6xl mx-auto"

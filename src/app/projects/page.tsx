@@ -1,4 +1,6 @@
 import { ProjectCard } from '@/components/ProjectCard'
+
+// List of projects with translations for titles and descriptions.
 import { getTranslations } from 'next-intl/server'
 import { getUserLocale, Locale } from '@/services/locale'
 import { projects } from '@/lib/data'

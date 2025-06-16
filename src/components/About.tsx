@@ -1,5 +1,7 @@
 'use client'
 
+// Describes the "About me" section with translated texts.
+
 import { useTranslations } from 'next-intl'
 
 export function About() {

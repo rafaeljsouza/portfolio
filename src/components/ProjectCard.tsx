@@ -1,5 +1,7 @@
 'use client'
 
+// Displays a single project with links to the site and repository.
+
 import Image from 'next/image'
 import { FiExternalLink, FiGithub } from 'react-icons/fi'
 

@@ -1,5 +1,7 @@
 'use client'
 
+// Landing section with greeting and call to action.
+
 import { useTranslations } from 'next-intl'
 import Image from 'next/image'
 import profilePic from '../../public/images/profile.jpg' // adicione sua foto em public/images
