@@ -63,10 +63,10 @@ public/   # Imagens e arquivos estáticos
 
 ## 📸 Prévia
 
-> *(Adicione uma imagem chamada `screenshot.png` em `public/images/` para usar abaixo)*
+> *(Adicione uma imagem chamada `screenshot.png` na raiz do projeto para usar abaixo)*
 
 ```md
-![screenshot](./public/images/screenshot.png)
+![screenshot](screenshot.png)
 ```
 
 ---
@@ -139,10 +139,10 @@ public/   # Static images and assets
 
 ## 📸 Preview
 
-> *(Place a `screenshot.png` in `public/images/` to use this)*
+> *(Place a `screenshot.png` in the root to use this)*
 
 ```md
-![screenshot](./public/images/screenshot.png)
+![screenshot](screenshot.png)
 ```
 
 ---
