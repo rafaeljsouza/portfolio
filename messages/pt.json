@@ -1,29 +1,30 @@
 {
-  "hero": {
-    "greeting": "Olá, eu sou o {name}!",
-    "subtitle": "Desenvolvedor full‑stack apaixonado por código limpo e aplicativos modernos.",
-    "ctaText": "Ver meus projetos",
-    "ctaLink": "/projects"
-  },
+"hero": {
+  "greeting": "Desenvolvedor full-stack que transforma problemas complexos em soluções",
+  "subtitle": "Full-stack com foco em lógica, clareza e códigos que resolvem",
+  "ctaText": "Ver projetos",
+  "ctaLink": "/projects"
+},
   
   "projects": {
     "title": "Projetos"
   },
   
   "navbar": {
+    "title": "Portfólio do Rafael",
     "home": "Home",
     "about": "Sobre",
     "projects": "Projetos"
   },
   
-  "about": {
+"about": {
   "title": "Sobre mim",
-  "description": "Sou um desenvolvedor full-stack com paixão por resolver problemas, criar interfaces intuitivas e escrever código limpo. Valorizo colaboração, aprendizado contínuo e impacto positivo com tecnologia.",
-  "point1": "4 anos de experiência com React, Next.js e FastAPI",
-  "point2": "Foco em performance, acessibilidade e boas práticas",
-  "point3": "Experiência com automação, bots e visualização de dados",
-  "point4": "Apaixonado por aprender e compartilhar conhecimento"
-  },
+  "description": "Sou um desenvolvedor full-stack com 5 anos de experiência e foco em resolver problemas complexos de forma estruturada e eficiente. Gosto de pensar sistemas desde a base, entender o funcionamento das tecnologias e tomar decisões bem embasadas antes de sair codando. Trabalho bem em equipe, valorizo comunicação clara e acredito que cooperação é a melhor ferramenta que temos para criar tecnologia com propósito.",
+  "point1": "Domínio de React, Python, Node.js e FastAPI",
+  "point2": "Experiência com integrações em nuvem, sistemas embarcados e mensageria com MQTT",
+  "point3": "Estilo de aprendizado teórico-prático: entendo antes de aplicar",
+  "point4": "Eu acredito que podemos usar nosso conhecimento para ajudar as pessoas"
+},
   
   "Skills": {
     "title": "Habilidades e Tecnologias"
