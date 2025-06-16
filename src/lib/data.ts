@@ -35,7 +35,7 @@ export const projects = [
       pt: "Calculadora de treinos de força com base no método 5/3/1 de Jim Wendler. Gere automaticamente ciclos semanais com pesos calculados a partir do seu 1RM. Suporte a kg/lb, modo escuro e interface responsiva.",
       en: "Strength training calculator based on Jim Wendler's 5/3/1 method. Automatically generates weekly workout cycles using your 1RM. Supports kg/lb units, dark mode, and responsive design."
     },
-    image: "/images/calculadora-531.PNG", 
+    image: "/images/calculadora-531.png", 
     siteLink: "https://calculadora531.netlify.app/",
     repoLink: "https://github.com/rafaeljsouza/calculadora-531"
   }
