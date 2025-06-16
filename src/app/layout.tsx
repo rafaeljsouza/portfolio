@@ -1,10 +1,13 @@
+// layout.tsx
 import { NextIntlClientProvider } from 'next-intl';
 import requestConfig from '@/i18n/request';
-import { Navbar } from '@/components/Navbar'
-import "@/app/globals.css";
+import { Navbar } from '@/components/Navbar';
+import { getUserLocale } from '@/services/locale';
+import '@/app/globals.css';
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
-  const { locale, messages } = await requestConfig({});
+  const { locale, messages } = await requestConfig({ requestLocale: getUserLocale() });
+
   return (
     <html lang={locale}>
       <body>
