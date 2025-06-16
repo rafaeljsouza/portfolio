@@ -65,9 +65,9 @@ public/   # Imagens e arquivos estáticos
 
 > *(Adicione uma imagem chamada `screenshot.png` na raiz do projeto para usar abaixo)*
 
-```md
+
 ![screenshot](screenshot.png)
-```
+
 
 ---
 
@@ -141,9 +141,7 @@ public/   # Static images and assets
 
 > *(Place a `screenshot.png` in the root to use this)*
 
-```md
 ![screenshot](screenshot.png)
-```
 
 ---
 
