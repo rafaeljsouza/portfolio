@@ -9,8 +9,17 @@ next-env.d.ts
 next.config.mjs
 package-lock.json
 package.json
-postcss.config.mjs
+postcss.config.cjs
 public
+  Icons
+    django.svg
+    flask.svg
+    laravel.svg
+    numpy.svg
+    pandas.svg
+    scipy-grayscale.svg
+    scipy.svg
+    scipyinvertido.svg
   file.svg
   globe.svg
   images
@@ -33,15 +42,17 @@ src
       page.tsx
   components
     About.tsx
+    Contact.tsx
     Hero.tsx
     LanguageSwitcher.tsx
     Navbar.tsx
     ProjectCard.tsx
+    Skills.tsx
   i18n
     request.ts
   lib
     data.ts
   services
     locale.ts
-tailwind.config.js
+tailwind.config.mjs
 tsconfig.json

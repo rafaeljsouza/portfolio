@@ -7,7 +7,7 @@ import Skills from '@/components/Skills'
 export default function HomePage() {
   // const t = useTranslations('home');
   return (
-     <main className="pt-20 min-h-screen bg-zinc-950 text-white">
+     <main className="bg-zinc-950 text-white px-6 py-12 max-w-6xl mx-auto">
       <Hero />
       <Skills />
       <Contact/>

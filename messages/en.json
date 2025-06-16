@@ -1,29 +1,31 @@
 {
-  "hero": {
-    "greeting": "Hi, I'm {name}",
-    "subtitle": "Full‑stack developer passionate about clean code and modern apps.",
-    "ctaText": "View projects",
-    "ctaLink": "/projects"
-  },
+"hero": {
+  "greeting": "Full-stack developer turning complex problems into solutions",
+  "subtitle": "Focused on logic, clarity and code that gets things done",
+  "ctaText": "See projects",
+  "ctaLink": "/projects"
+},
 
   "projects": {
     "title": "Projects"
   },
 
   "navbar": {
+    "title": "Rafael's Portfolio",
     "home": "Home",
     "about": "About",
     "projects": "Projects"
   },
 
-  "about": {
-    "title": "About me",
-    "description": "I'm a full-stack developer passionate about solving problems, crafting intuitive UIs and writing clean code. I value collaboration, continuous learning and building meaningful tech.",
-    "point1": "4 years of experience with React, Next.js and FastAPI",
-    "point2": "Focus on performance, accessibility and best practices",
-    "point3": "Experience with automation, bots and data visualization",
-    "point4": "Passionate about learning and sharing knowledge"
-  },
+"about": {
+  "title": "About me",
+  "description": "I'm a full-stack developer with 5 years of experience and a focus on solving complex problems through structured thinking. I like to design systems from the ground up, understand how technologies work, and make well-informed decisions before writing code. I'm a collaborative team player who values clear communication and believes cooperation is our best tool to build purposeful tech.",
+  "point1": "Fluent in React, Python, Node.js and FastAPI",
+  "point2": "Experience with cloud integrations, embedded systems and MQTT messaging",
+  "point3": "Theoretical-practical learner: I understand before I apply",
+  "point4": "I believe we can use our knowledge to help people"
+}
+,
 
   "Skills": {
     "title": "Skills and Technologies"
