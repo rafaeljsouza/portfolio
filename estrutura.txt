@@ -1,0 +1,47 @@
+README.md
+eslint.config.mjs
+estrutura.txt
+gerar_estrutura.sh
+messages
+  en.json
+  pt.json
+next-env.d.ts
+next.config.mjs
+package-lock.json
+package.json
+postcss.config.mjs
+public
+  file.svg
+  globe.svg
+  images
+    AppLena.PNG
+    profile.jpg
+  next.svg
+  vercel.svg
+  window.svg
+src
+  actions
+    set-locale.ts
+  app
+    about
+      page.tsx
+    favicon.ico
+    globals.css
+    layout.tsx
+    page.tsx
+    projects
+      page.tsx
+  components
+    About.tsx
+    Hero.tsx
+    LanguageSwitcher.tsx
+    Navbar.tsx
+    ProjectCard.tsx
+  i18n
+    request.ts
+  lib
+    data.ts
+  services
+    locale.ts
+tailwind.config.js
+tsconfig.json

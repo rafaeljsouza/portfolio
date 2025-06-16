@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "greeting": "Olá, eu sou o {name}!",
+    "subtitle": "Desenvolvedor full‑stack apaixonado por código limpo e aplicativos modernos.",
+    "ctaText": "Ver meus projetos",
+    "ctaLink": "/projects"
+  },
+  
+  "projects": {
+    "title": "Projetos"
+  },
+  
+  "navbar": {
+    "home": "Home",
+    "about": "Sobre",
+    "projects": "Projetos"
+  },
+  
+  "about": {
+  "title": "Sobre mim",
+  "description": "Sou um desenvolvedor full-stack com paixão por resolver problemas, criar interfaces intuitivas e escrever código limpo. Valorizo colaboração, aprendizado contínuo e impacto positivo com tecnologia.",
+  "point1": "4 anos de experiência com React, Next.js e FastAPI",
+  "point2": "Foco em performance, acessibilidade e boas práticas",
+  "point3": "Experiência com automação, bots e visualização de dados",
+  "point4": "Apaixonado por aprender e compartilhar conhecimento"
+  },
+  
+  "Skills": {
+    "title": "Habilidades e Tecnologias"
+  },
+  
+  "Contact": {
+    "title": "Contato",
+    "name": "Seu nome",
+    "email": "Seu e-mail",
+    "message": "Sua mensagem",
+    "send": "Enviar",
+    "sending": "Enviando...",
+    "success": "Mensagem enviada com sucesso!",
+    "error": "Erro ao enviar. Tente novamente."
+  }
+}
