@@ -1,6 +1,9 @@
 'use client'
 
 // Simple contact form that posts to Formspree and uses ReCAPTCHA.
+// You have to create a Formspree account and set up a form.
+// Also, you need to set up ReCAPTCHA and add your site key to the .env file.
+// On netlify, you can set the environment variables in the site settings.
 
 import { useRef, useState } from 'react'
 import ReCAPTCHA from 'react-google-recaptcha'
@@ -24,7 +27,7 @@ export default function Contact() {
     recaptchaRef.current?.reset()
 
     try {
-      const response = await fetch('***REMOVED***', {
+      const response = await fetch(process.env.NEXT_PUBLIC_FORMSPREE_ENDPOINT!, { // use your own formspree key on the .env file
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -77,7 +80,7 @@ export default function Contact() {
           required
         />
         <ReCAPTCHA
-          sitekey="***REMOVED***" // substitua pela sua chave
+          sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY!} // use your own site key on the .env file
           size="invisible"
           ref={recaptchaRef}
         />
