@@ -84,6 +84,18 @@ Este projeto é open-source e livre para aprendizado, uso pessoal e como base pa
 
 ---
 
+## 🤝 Open source para devs iniciantes
+
+Este portfólio foi pensado para ser simples, funcional e fácil de adaptar. Se você está começando sua jornada como dev e quer uma base sólida para montar o seu portfólio, fique à vontade para:
+
+- Clonar este repositório
+- Modificar o design, textos ou estrutura como quiser
+- Usar como estudo, base de aprendizado ou inspiração
+
+A estrutura foi feita com foco em organização, boas práticas e tecnologias modernas como Next.js, Tailwind, i18n e formulários com proteção reCAPTCHA. Se esse projeto te ajudar de alguma forma, me avisa ou deixa uma estrela no repositório — vai ser um prazer saber disso 🙂
+
+> 💡 Está se perguntando por onde começar? Veja o [guia de contribuição](CONTRIBUTING.md).
+
 Se quiser trocar ideias, contribuir ou bater um papo sobre código:  
 📬 [LinkedIn](https://www.linkedin.com/in/rafaeljsouza/) | [Portfólio](https://portfolio-rafaelsouza.netlify.app/)
 
@@ -163,6 +175,18 @@ public/   # Static images and assets
 This project is open-source and free to use for learning, personal use, or as inspiration for your own portfolio.
 
 ---
+
+## 🤝 Open Source for Beginner Devs
+
+This portfolio was designed to be simple, functional, and easy to adapt. If you're starting your journey as a developer and want a solid foundation to build your own portfolio, feel free to:
+
+- Clone this repository
+- Modify the design, text, or structure as you wish
+- Use it for learning, as a foundation, or for inspiration
+
+The structure was built focusing on organization, good practices, and modern technologies like Next.js, Tailwind, i18n, and forms with reCAPTCHA protection. If this project helps you in any way, let me know or leave a star on the repository—I'd be happy to hear about it 🙂
+
+> 💡 Wondering where to start? Check out the [contribution guide](CONTRIBUTING.md).
 
 Want to connect, contribute or chat about code?  
 📬 [LinkedIn](https://www.linkedin.com/in/rafaeljsouza/) | [Portfolio](https://portfolio-rafaelsouza.netlify.app/)
