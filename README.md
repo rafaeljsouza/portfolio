@@ -1,14 +1,21 @@
 
 <p align="right">
-  🇧🇷 <a href="#em-português">Versão em português</a> •
+  🇧🇷 <a href="#em-portugues">Versão em português</a> •
   🇺🇸 <a href="#in-english">English version</a>
 </p>
 
 ---
 
-## 🇧🇷 Em português
+## <a name="em-portugues"></a>🇧🇷 Em português
 
 # 🌐 Portfólio do Rafael
+
+<p align="right">
+  <img src="https://img.shields.io/github/last-commit/rafaeljsouza/portfolio" alt="Último commit" />
+  <img src="https://img.shields.io/github/v/tag/rafaeljsouza/portfolio" alt="Última versão" />
+  <img src="https://img.shields.io/github/license/rafaeljsouza/portfolio" alt="Licença" />
+</p>
+
 
 Esse é o código-fonte do meu portfólio pessoal: um espaço onde apresento meus projetos, minha trajetória como dev e um pouco da minha forma de pensar e trabalhar.
 
@@ -82,9 +89,15 @@ Se quiser trocar ideias, contribuir ou bater um papo sobre código:
 
 ---
 
-## 🇺🇸 In English
+## <a name="in-english"></a>🇺🇸 In English
 
 # 🌐 Rafael's Portfolio
+
+<p align="right">
+  <img src="https://img.shields.io/github/last-commit/rafaeljsouza/portfolio" alt="Last commit" />
+  <img src="https://img.shields.io/github/v/tag/rafaeljsouza/portfolio" alt="Latest version" />
+  <img src="https://img.shields.io/github/license/rafaeljsouza/portfolio" alt="License" />
+</p>
 
 This is the source code of my personal portfolio — a space to showcase my projects, development journey, and how I think and work as a dev.
 
