@@ -80,7 +80,11 @@ public/   # Imagens e arquivos estáticos
 
 ## 🤝 Licença
 
-Este projeto é open-source e livre para aprendizado, uso pessoal e como base para outros portfólios.
+## 🤝 Licença
+
+Este projeto é distribuído sob a **Licença MIT**. Isso significa que você tem total liberdade para usar, copiar, modificar e usar como base para outros portfólios.
+
+Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
 
 ---
 
@@ -172,7 +176,12 @@ public/   # Static images and assets
 
 ## 🤝 License
 
-This project is open-source and free to use for learning, personal use, or as inspiration for your own portfolio.
+## 🤝 License
+
+This project is distributed under the **MIT License**. This means you are free to use, copy, modify, and even use it as a base for other portfolios.
+
+For more details, see the [LICENSE](LICENSE) file.
+
 
 ---
 
