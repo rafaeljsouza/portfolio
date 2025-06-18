@@ -29,6 +29,8 @@ Se você quiser usar este repositório como base, aqui vai um guia rápido:
 - Traduza os arquivos `pt.json` e `en.json`
 - Troque a imagem de perfil e links pessoais
 - Ajuste o formulário para seu próprio endpoint (`Formspree`, etc.)
+- Altere o .env.example para .env.local e ajustes as variáveis localmente.
+- Ajuste as variáveis nas configurações de deploy do netlify.
 - Leia o `README.md` para entender a estrutura geral
 
 ## 💬 Ficou com dúvidas?
@@ -65,6 +67,8 @@ If you want to use this repository as a base, here is a quick guide:
 - Translate the `pt.json` and `en.json` files
 - Change the profile picture and personal links
 - Adjust the form to your own endpoint (`Formspree`, etc.)
+- Change the .env.exemple to .env.local and adjust the variables locally.
+- Adjust the variables on netlify deploy settings as well.
 - Read the `README.md` to understand the overall structure
 
 ## 💬 Have Questions?
